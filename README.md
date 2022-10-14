@@ -2,7 +2,7 @@
 
 This repository contains my second Python assessment for the Dev10 training that I completed. 
 
-The main goal of this assessment was to create a simple text-based application to manage holidays meeting the following requirements:
+The main goal of this assessment was to create a simple text-based application to manage holidays meeting the following broad requirements:
 
 * Preload starter holidays from a JSON file as well as 5 years worth of holidays from timeanddate.com/holidays/us
 * Save all holidays to a JSON file
